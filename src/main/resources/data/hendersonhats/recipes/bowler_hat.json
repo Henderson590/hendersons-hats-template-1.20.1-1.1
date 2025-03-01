@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    " B ",
+    " G ",
+    "BBB"
+
+  ],
+
+  "key":
+  {
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "G": {
+      "item": "minecraft:gray_wool"
+    }
+  },
+  "result": {
+    "item": "hendersonhats:bowler_hat",
+    "count": 1
+  }
+}

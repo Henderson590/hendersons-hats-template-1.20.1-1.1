@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    " W ",
+    " L ",
+    "WWW"
+
+  ],
+
+  "key":
+  {
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "L": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "result": {
+    "item": "hendersonhats:cowboy_hat",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    " B ",
+    " R ",
+    "BBB"
+
+  ],
+
+  "key":
+  {
+    "B": {
+      "item": "minecraft:black_wool"
+    },
+    "R": {
+      "item": "minecraft:red_wool"
+    }
+  },
+  "result": {
+    "item": "hendersonhats:top_hat",
+    "count": 1
+  }
+}
